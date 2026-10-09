@@ -1,15 +1,17 @@
 Saffron Café — Responsive Café Website
-A modern café website designed to showcase menu items and provide an interactive browsing and ordering experience.
-🔗 Live Demo (https://hadya12muska.github.io/Saffron-Cafe/) | GitHub Repository (https://github.com/hadya12muska/Saffron-Cafe)
+Saffron Café is a responsive café website built with HTML, CSS, and JavaScript. It features a café menu, product filtering, an interactive shopping cart, and an order confirmation interface.
+🔗 Live Demo: https://hadya12muska.github.io/Saffron-Cafe/  GitHub Repository: https://github.com/hadya12muska/Saffron-Cafe
 Overview
-Saffron Café is a personal frontend web development project inspired by the experience of visiting a modern café. It combines a welcoming visual design with interactive features that help visitors explore menu items and interact with a simulated ordering interface.
-Key Features
+Saffron Café is a frontend web development project inspired by the warm atmosphere of a modern café. The website allows visitors to explore drinks and desserts, view menu items and prices, add items to a shopping cart, and interact with a simulated ordering experience.
+Features
 • Responsive Design: A layout designed for desktop and mobile screens.
-• Interactive Menu: Browse café products and menu categories.
-• Product Cards: Present menu items with descriptions and pricing.
-• Shopping Cart: Interact with selected products and review an order.
-• Order Confirmation: Display feedback when a user submits an order through the demo interface.
-• Contact Section: Present café contact information and relevant details.
+• Café Introduction: Home and About sections presenting the café’s identity and atmosphere.
+• Interactive Menu: Browse menu items by category, including Coffee, Tea, and Desserts.
+• Product Cards: View product images, descriptions, and prices.
+• Shopping Cart: Add menu items, review the order, and view the total.
+• Order Confirmation: Receive on-screen confirmation when submitting an order through the demo interface.
+• Gallery: Browse café-related images.
+• Contact Section: View the café’s displayed contact details and opening hours.
 Technology Stack
 • HTML5
 • CSS3
@@ -18,30 +20,29 @@ Technology Stack
 • GitHub Pages for deployment
 Getting Started
 View the Live Website
-Visit the deployed website:
-Saffron Café — Live Demo (https://hadya12muska.github.io/Saffron-Cafe/)
+Visit the deployed project:
+https://hadya12muska.github.io/Saffron-Cafe/
 Run Locally
 1. Clone the repository:
 git clone https://github.com/hadya12muska/Saffron-Cafe.git
-2. Navigate to the project directory:
+2. Navigate to the project folder:
 cd Saffron-Cafe
-3. Open index.html in your browser, or use the Live Server extension in Visual Studio Code if available.
-What I Learned
+3. Open index.html in your browser, or use the Live Server extension in Visual Studio Code.
+What I Practiced
 Through this project, I practiced:
 • Structuring web pages with HTML.
-• Styling responsive layouts with CSS.
-• Adding interactivity with JavaScript.
-• Building reusable menu and product components.
+• Creating layouts and styling elements with CSS.
+• Adding interactive functionality with JavaScript.
+• Filtering menu items by category.
 • Implementing client-side cart and order interactions.
 • Publishing a website using GitHub Pages.
 Future Improvements
-• Add more menu customization options.
-• Improve cart feedback and order validation.
-• Refine the mobile browsing experience.
-• Integrate a backend for persistent orders if the project is expanded.
+• Connect the ordering experience to a backend.
+• Add order validation and more detailed cart controls.
+• Improve accessibility and mobile usability.
+• Add functionality for managing menu items and prices.
 Project Status
-A personal frontend portfolio project. Ordering interactions are part of the website demonstration and should not be treated as real restaurant order processing unless a backend integration is added.
-Author
-Hadya
-Computer science student interested in frontend development and building interactive, user-friendly websites.
-GitHub Profile (https://github.com/hadya12muska)
+This is a personal frontend portfolio project. The shopping cart and order confirmation provide a demonstration of client-side interactions; real order processing is not implied.
+Project Links
+• Live Website: https://hadya12muska.github.io/Saffron-Cafe/
+• Source Code: https://github.com/hadya12muska/Saffron-Cafe
