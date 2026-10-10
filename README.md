@@ -9,9 +9,9 @@ an interactive shopping cart, and an order confirmation interface.
 Overview
 
 Saffron Café is a frontend web development project inspired by the warm atmosphere of a modern café. The website allows visitors to explore drinks and desserts, view menu items and prices, add items to a shopping cart, and interact with a simulated ordering experience.
-## ☕ Homepage Preview
+##  Homepage Preview
 
-![Saffron Cafe Homepage](Saffron-cafe-homepage.png)
+![Saffron Cafe Homepage](saffron-cafe-homepage.png)
 
 **Explore the design and experience of Saffron Cafe.**
 
